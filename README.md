@@ -5,6 +5,7 @@
 * Grid Layout
 * Адаптивная верстка
 
-**Интро**
-
 Проект о путешествии по России.
+
+### Ссылка на сайт GitHub Pages
+https://denisshesternev.github.io/russian-travel/
