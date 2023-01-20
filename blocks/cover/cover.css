@@ -1,0 +1,13 @@
+.cover {
+    max-width: 1184px;
+    margin: 0 auto;
+    position: relative;
+    display: grid;
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+      max-width: 100%;
+    }
+  }
