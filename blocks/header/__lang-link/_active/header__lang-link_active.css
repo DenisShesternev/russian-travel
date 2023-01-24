@@ -1,3 +1,7 @@
-.header__lang-link_active {
-    text-decoration: underline;
+.header__lang-link_active:lang(ru){
+    text-decoration: none;
+}
+
+.header__lang-link_active:lang(en){
+    text-decoration: none;
 }
